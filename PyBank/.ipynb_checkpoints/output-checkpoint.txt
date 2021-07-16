@@ -1,0 +1,1 @@
+Financial Analysis----------------------------Total Months:+ str(month_pl_count[0]Total: ${pl_total}Greatest Increase in Profits: Feb-2012 $1926159Greatest Decrease in Losses : Sep-2013 $-2196167
